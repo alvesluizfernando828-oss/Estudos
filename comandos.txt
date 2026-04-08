@@ -21,3 +21,7 @@
 
 Depois de colocar a descrição de cada um dos comandos coloque a ordem em que devem ser executadas para salvar as alterações no GitHub.
  
+ git status
+ git add .
+ git commit -m "Mensagem"
+ git push
