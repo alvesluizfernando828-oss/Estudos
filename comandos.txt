@@ -1,0 +1,23 @@
+ Coloque a descrição de cada um dos seguintes comandos e 
+ faça uma atualização no GitHub:
+
+ git status -> serve para mostrar o estado atual do seu repositório.
+
+ git add , -> significa adicionar todas as alterações para a área de preparação (staging area).
+
+ git commit -m "Mensagem" ->  significa salvar suas alterações no histórico do projeto com uma descrição.
+
+ git log -> serve para ver o histórico de commits do seu repositório.
+
+ git push -> significa enviar (publicar) seus commits para um repositório remoto
+
+ git branch ->  é usado para criar, listar, renomear ou deletar branches
+
+ git branch nome-da-branch -> o nome que você está sendo declarado para essa nova linha de desenvolvimento
+
+ git checkout -> “trocar” ou “mudar” o estado do seu projeto.
+
+ git init -> é utilizado para inicialização do rastreio de um novo repositório.
+
+Depois de colocar a descrição de cada um dos comandos coloque a ordem em que devem ser executadas para salvar as alterações no GitHub.
+ 
